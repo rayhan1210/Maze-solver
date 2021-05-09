@@ -1,0 +1,11 @@
+.DS_Store
+Doc/
+build/
+testScript
+test/
+unimplemented/
+.vscode/
+compileScript
+runScript
+output_files/
+docs
